@@ -1,15 +1,15 @@
 
-## Methods
-- Implemented and compared Linear Regression, Random Forest, and XGBoost models to predict customer account balances. Evaluated model performance using R² and RMSE, demonstrating the impact of nonlinear machine learning techniques on predictive accuracy.
-<br></br>
-### Model Performance Summary
+## Model Performance Summary
 
 | Model | R Squared | RMSE | Performance|
 |-------|-----------|-------|-----------|
 |Linear Regression| 0.4901|2783.25| Baseline model with moderate predictive power
 |XGBoost|0.9021|1219.57| Strong preformance that captures non-linear relationships|
 |Random Forest|0.9989|128.57| Best performing model on the data
+<br></br>
 
+## Methods
+- Implemented and compared Linear Regression, Random Forest, and XGBoost models to predict customer account balances. Evaluated model performance using R² and RMSE, demonstrating the impact of nonlinear machine learning techniques on predictive accuracy.
 
 
 ## Key Findings
