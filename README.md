@@ -53,6 +53,8 @@ This project explores customer banking behavior through exploratory data analysi
 - Spending behavior analysis by occupation, location, and channel
 - Account balance trend analysis
 - Data visualization and business insights
+  
+<br></br>
 
 ### Regression Modeling
 Predicted customer account balances using:
@@ -64,6 +66,8 @@ Predicted customer account balances using:
 Models were evaluated using:
 - R squared Score
 - Root Mean Squared Error (RMSE)
+
+<br></br>
 
 ### Classification Modeling
 Classified transaction types (Credit vs. Debit) using:
@@ -79,6 +83,8 @@ Models were evaluated using:
 - F1-Score
 - Confusion Matrix
 
+<br></br>
+
 ### Customer Segmentation
 Applied clustering techniques to identify distinct customer groups based on spending behavior and transaction characteristics.
 
@@ -86,10 +92,14 @@ Applied clustering techniques to identify distinct customer groups based on spen
 - Cluster profiling and interpretation
 - Customer segment visualization
 
+<br></br>
+
 ### Anomaly Detection
 Detected unusual transaction behavior using unsupervised machine learning techniques.
 - Isolation Forest
 - Outlier identification
+
+<br></br>
 
 ## Key Insights
 
