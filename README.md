@@ -38,7 +38,7 @@ This project explores customer banking behavior through exploratory data analysi
 - `AccountBalance`: Balance in the account post-transaction, with logical correlations based on transaction type and amount.
 - `PreviousTransactionDate`: Timestamp of the last transaction for the account, aiding in calculating transaction frequency.
 - `Channel`: Channel through which the transaction was performed (e.g., Online, ATM, Branch).
--`CustomerAge`: Age of the account holder, with logical groupings based on occupation.
+- `CustomerAge`: Age of the account holder, with logical groupings based on occupation.
 - `CustomerOccupation`: Occupation of the account holder (e.g., Doctor, Engineer, Student, Retired), reflecting income patterns.
 - `TransactionDuration`: Duration of the transaction in seconds, varying by transaction type.
 - `LoginAttempts`: Number of login attempts before the transaction, with higher values indicating potential anomalies.
