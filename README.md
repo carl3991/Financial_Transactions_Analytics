@@ -26,22 +26,22 @@ This project explores customer banking behavior through exploratory data analysi
 - Google Colab
 
 ## Key Features:
-`TransactionID`: Unique alphanumeric identifier for each transaction.
-`AccountID`: Unique identifier for each account, with multiple transactions per account.
-`TransactionAmount`: Monetary value of each transaction, ranging from small everyday expenses to larger purchases.
-`TransactionDate`: Timestamp of each transaction, capturing date and time.
-`TransactionType`: Categorical field indicating 'Credit' or 'Debit' transactions.
-`Location`: Geographic location of the transaction, represented by U.S. city names.
-`DeviceID`: Alphanumeric identifier for devices used to perform the transaction.
-`IP Address`: IPv4 address associated with the transaction, with occasional changes for some accounts.
-`MerchantID`: Unique identifier for merchants, showing preferred and outlier merchants for each account.
-`AccountBalance`: Balance in the account post-transaction, with logical correlations based on transaction type and amount.
-`PreviousTransactionDate`: Timestamp of the last transaction for the account, aiding in calculating transaction frequency.
-`Channel`: Channel through which the transaction was performed (e.g., Online, ATM, Branch).
-`CustomerAge`: Age of the account holder, with logical groupings based on occupation.
-`CustomerOccupation`: Occupation of the account holder (e.g., Doctor, Engineer, Student, Retired), reflecting income patterns.
-`TransactionDuration`: Duration of the transaction in seconds, varying by transaction type.
-`LoginAttempts`: Number of login attempts before the transaction, with higher values indicating potential anomalies.
+- `TransactionID`: Unique alphanumeric identifier for each transaction.
+- `AccountID`: Unique identifier for each account, with multiple transactions per account.
+- `TransactionAmount`: Monetary value of each transaction, ranging from small everyday expenses to larger purchases.
+- `TransactionDate`: Timestamp of each transaction, capturing date and time.
+- `TransactionType`: Categorical field indicating 'Credit' or 'Debit' transactions.
+- `Location`: Geographic location of the transaction, represented by U.S. city names.
+- `DeviceID`: Alphanumeric identifier for devices used to perform the transaction.
+- `IP Address`: IPv4 address associated with the transaction, with occasional changes for some accounts.
+- `MerchantID`: Unique identifier for merchants, showing preferred and outlier merchants for each account.
+- `AccountBalance`: Balance in the account post-transaction, with logical correlations based on transaction type and amount.
+- `PreviousTransactionDate`: Timestamp of the last transaction for the account, aiding in calculating transaction frequency.
+- `Channel`: Channel through which the transaction was performed (e.g., Online, ATM, Branch).
+-`CustomerAge`: Age of the account holder, with logical groupings based on occupation.
+- `CustomerOccupation`: Occupation of the account holder (e.g., Doctor, Engineer, Student, Retired), reflecting income patterns.
+- `TransactionDuration`: Duration of the transaction in seconds, varying by transaction type.
+- `LoginAttempts`: Number of login attempts before the transaction, with higher values indicating potential anomalies.
 
 <br></br>
 
