@@ -1,3 +1,4 @@
+<img width="847" height="547" alt="download" src="https://github.com/user-attachments/assets/a059e2eb-4852-44ee-80c7-f52993136507" />
 # Customer Segmentation Using K-Means Clustering
 
 ## Project Overview
@@ -37,6 +38,7 @@ K-Means clustering revealed four unique customer groups differentiated primarily
 - Login Behavior
 
 These variables were the strongest drivers of customer segmentation.
+<img width="900" height="500" alt="download" src="https://github.com/user-attachments/assets/5c541832-7567-46a5-b6c4-3fa02928fb1b" />
 
 ---
 
