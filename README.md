@@ -13,6 +13,19 @@ This project explores customer banking behavior through exploratory data analysi
 - Detect unusual or potentially anomalous transactions.
 - Segment customers into meaningful groups based on financial behavior.
 
+  
+## Tools & Technologies
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- XGBoost
+- Google Colab
+
+
 ## Project Components
 
 ### Exploratory Data Analysis (EDA)
@@ -56,26 +69,15 @@ Applied clustering techniques to identify distinct customer groups based on spen
 
 ### Anomaly Detection
 Detected unusual transaction behavior using unsupervised machine learning techniques.
-
 - Isolation Forest
 - Outlier identification
 
 ## Key Insights
 
-- Customer occupation was one of the strongest predictors of account balance.
-- Tree-based models significantly outperformed linear models for both regression and classification tasks.
-- Transaction behavior and customer attributes contributed substantially to predictive performance.
-- Customer segments revealed distinct spending and transaction patterns.
-- Anomaly detection highlighted transactions that deviated from normal behavioral trends.
-
-## Tools & Technologies
-
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- XGBoost
-- Jupyter Notebook
+- Customer occupation was a major determinant of account balance and financial behavior.
+- Tree-based models outperformed linear models, achieving stronger predictive performance across machine learning tasks.
+- Transaction patterns, customer demographics, and account characteristics were the most influential features in predicting outcomes.
+- Customer segmentation revealed four distinct profiles based on age, balances, transaction value, and digital engagement.
+- Anomaly detection exposed unusual transaction behaviors that traditional segmentation techniques did not capture.
+- Using clustering, predictive modeling, and anomaly detection together provided a holistic understanding of customer behavior and banking activity.
 
